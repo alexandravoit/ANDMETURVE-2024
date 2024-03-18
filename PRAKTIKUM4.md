@@ -8,4 +8,7 @@
 2)   
 <img width="816" alt="image" src="https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/721e659c-92fe-4cb5-9c1c-894242632f1a">
 
-3)  seletused
+3)  **Uuri praktikumi esimeses osas saadetud/vastuvõetud erinevaid e-kirju ja esita praktikumi arvestuseks tekstiliselt viis (5) näidet koos lühikese tehnilise seletusega kuidas vastav parameeter/rida jne e-kirja detailses vaates aitab tuvastada kas kiri on õige või vale.**
+4)  krüpteeritud e-mail
+5)  **Too praktikumi esituses välja vähemalt kolm (3) selget erinevust turvalisuse seisuskohast Signal sõnumite ja klassikaliste SMS-ide vahel ning esita lahendus praktikumi aruandesse.**
+6)  
