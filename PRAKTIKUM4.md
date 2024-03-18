@@ -7,3 +7,5 @@
 
 2)   
 <img width="816" alt="image" src="https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/721e659c-92fe-4cb5-9c1c-894242632f1a">
+
+3)  seletused
