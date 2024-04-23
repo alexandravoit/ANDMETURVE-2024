@@ -16,4 +16,6 @@
 6) Firefox!!
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/3de1d4de-c511-4813-939e-696e96b520cc)
 
-7)
+7) Kasutasin Recuvat enda host arvutis:
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/acf2993e-28f6-4c3f-b807-e0c17b36eb3a)
+
