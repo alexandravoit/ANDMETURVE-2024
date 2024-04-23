@@ -4,8 +4,7 @@
 2)  
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/0c980053-f7b1-4b8a-8852-3df504e163f7)
 
-3)
-![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/d42dff9b-1b9c-463b-9e2e-6299dc2cc6e8)
+3)  Viimased 3 faili:  
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/8647286c-2c2f-4892-b20b-4ab8b43894bc)
 
 
