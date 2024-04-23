@@ -15,3 +15,5 @@
 
 6) Firefox!!
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/3de1d4de-c511-4813-939e-696e96b520cc)
+
+7)
