@@ -12,3 +12,6 @@
 
 5)  
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/9e72aff4-c64a-42a2-9d04-35b98e72618d)
+
+6) Firefox!!
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/3de1d4de-c511-4813-939e-696e96b520cc)
