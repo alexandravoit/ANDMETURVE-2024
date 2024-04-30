@@ -2,22 +2,6 @@
 
 1) Skript
    
-        #!/bin/sh
-        
-        iptables -F
-        
-        iptables -A INPUT -i lo -j ACCEPT
-           
-        iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
-        
-        iptables -A INPUT -s 192.168.8.118 -p icmp --icmp-type echo-request -j ACCEPT
-        
-        iptables -A INPUT -s 192.168.8.118 -d 192.168.8.117 -p tcp --dport 22 -j ACCEPT
-        
-        iptables -A INPUT -j DROP
-
-2) Skript
-   
          #!/bin/sh
          
          iptables -F
@@ -64,3 +48,6 @@
             
             
             iptables -A INPUT -j DROP
+
+2)  
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/c143296a-0661-4923-9601-6e7126d9b1f2)
