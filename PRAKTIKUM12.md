@@ -1,5 +1,4 @@
 # PRAKTIKUM 12
-**olen tegelemas**
 
 1) Kasutaja parool: isherenow
 2)
@@ -10,3 +9,7 @@
 
 4)
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/0e05f02f-b8f0-4eb2-aa74-ad7499c8dc98)
+
+5)
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/d502eb11-a525-41ea-bff7-8cb2e984c897)
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/ae5d8636-59f1-4041-8686-53b6ad31341a)
