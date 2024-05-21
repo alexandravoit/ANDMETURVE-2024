@@ -14,3 +14,7 @@
 
 **SQL INJECTION INTRO**  
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/efd5e4ab-7ec2-4195-b615-5abef8d0c852)
+
+**SERVER-SIDE REQUEST FORGERY**
+Millegi pärast ütleb WebGoat, et võti on vale, kuigi sain ülesande tehtud ja positiivse teate:   
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/66bc2f75-5c1e-4f0c-8c39-5b5f6bbd1382)
