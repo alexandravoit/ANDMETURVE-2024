@@ -5,3 +5,6 @@
 
 **BYPASS FRONT/END RESTRICTIONS**  
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/cb59061c-392f-4ae4-9594-c3ba931eb42e)
+
+**CLIENT SIDE FILTERING**  
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/06d4eb2d-45b3-4f18-a583-04cd7e7378e1)
