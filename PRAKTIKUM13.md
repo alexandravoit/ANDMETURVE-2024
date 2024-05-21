@@ -11,3 +11,6 @@
 
 **CRYPTO BASICS**  
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/5ae8f454-f714-41fa-8e07-96ff73d03f54)
+
+**SQL INJECTION INTRO**  
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/efd5e4ab-7ec2-4195-b615-5abef8d0c852)
