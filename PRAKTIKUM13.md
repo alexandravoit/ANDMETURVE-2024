@@ -8,3 +8,6 @@
 
 **CLIENT SIDE FILTERING**  
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/06d4eb2d-45b3-4f18-a583-04cd7e7378e1)
+
+**CRYPTO BASICS**  
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/5ae8f454-f714-41fa-8e07-96ff73d03f54)
