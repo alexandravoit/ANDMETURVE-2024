@@ -19,4 +19,6 @@
 Millegi pärast ütleb WebGoat, et võti on vale, kuigi sain ülesande tehtud ja positiivse teate:   
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/66bc2f75-5c1e-4f0c-8c39-5b5f6bbd1382)
 
-<?xml version="1.0"?><!DOCTYPE comment [<!ENTITY xxe SYSTEM "file:///">]><comment><text>&xxe;</text></comment>
+**SECURITY MISCONFIGURATION (XXE)**  
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/be873dab-2461-493c-ba5b-73fde22d0f51)
+
