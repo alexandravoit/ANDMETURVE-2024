@@ -22,3 +22,5 @@ Millegi pärast ütleb WebGoat, et võti on vale, kuigi sain ülesande tehtud ja
 **SECURITY MISCONFIGURATION (XXE)**  
 ![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/be873dab-2461-493c-ba5b-73fde22d0f51)
 
+**IDOR**
+![image](https://github.com/alexandravoit/ANDMETURVE-2024/assets/145194484/06fb5338-61bd-44fe-9a66-0d45dfd6abb9)
