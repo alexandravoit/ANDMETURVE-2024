@@ -11,4 +11,4 @@
 
 - SECRET HEADER: Kasutasin ära mõlemad vihjed, sain teada millist request meetodit kasutama peab ja kuidas. Sisestasin curl commandi _curl -X POST -A "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0" -v http://shared.target05:1235/page.php_ , mis andis lipu ROT13 kodeeringus.
 - API: Kasutasin hinte, sain teada, et meetod peab olema POST ning kasutajanimi "administrator". Saatsin õige kasutajanimega POST requesti, mis andis kasutaja parooli "terminator008". Sain mingi uue veebilehe aadressi, kuhu sain lõpuks sisse logitud. Div classi sees oli vajalik flag.
-- ROOTKIT: 
+- ROOTKIT: Proovisin suht pikalt lahendada ning ei jõudnud eriti kuskile. Kasutasin hinte. Viimase hinti peal sain, et tuleb dekodeerida "0x4E09", mis on decimal süsteemis 19977 ehk õige vastus.
